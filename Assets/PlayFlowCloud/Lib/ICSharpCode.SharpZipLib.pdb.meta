@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc7d579aca1516c45ba635878785b8ff
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206903
+  packageName: PlayFlow Cloud
+  packageVersion: 4.1
+  assetPath: Assets/PlayFlowCloud/Lib/ICSharpCode.SharpZipLib.pdb
+  uploadId: 648351

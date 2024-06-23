@@ -1,0 +1,5 @@
+//²Ëµ¥£¬×îºóÐ´
+public interface eggs_
+{
+   
+}
